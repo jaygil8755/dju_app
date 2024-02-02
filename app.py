@@ -7,7 +7,7 @@ import base64
 st.set_page_config(layout="wide", page_title="Image Background Remover")
 
 st.write("## 이미지 배경 제거 앱")
-st.write('수고하셨습니다. 안녕히 가세요. 다음에 또 만나요")
+st.write("수고하셨습니다. 안녕히 가세요. 다음에 또 만나요")
 st.sidebar.write("## 업로드하고 다운로드 받기 :gear:")
 
 MAX_FILE_SIZE = 5 * 1024 * 1024  # 5MB
